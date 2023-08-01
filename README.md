@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasmalvadkar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasmalvadkar" /> </p>
-<p>[![Netlify Status](https://api.netlify.com/api/v1/badges/bcccc992-a2f3-4f78-be14-5f6ff1690f37/deploy-status)](https://app.netlify.com/sites/krutishil/deploys)</p>
+
 
 - 🌱 I’m currently learning **Reactjs,Nodejs,J2EE,J2SE,MySQL,.net technology, etc**
 
