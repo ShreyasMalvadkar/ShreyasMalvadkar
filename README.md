@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasmalvadkar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasmalvadkar" /> </p>
 
 
-- 🌱 I’m currently learning **Reactjs,Nodejs,J2EE,J2SE,MySQL,.net technology, etc**
+- 🌱 I’m Graduate from CDAC, Pune
 
 - 📫 How to reach me **shreyasmalvadkar219@gmail.com**
 
